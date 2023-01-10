@@ -86,6 +86,4 @@ Now, you have to point your smartphone's camera to scan the QR Code displayed on
 
 ---
 
-<h3 align="center" >
-  Made by Júlia Brito(LiajuX)
-</h3>
+
